@@ -1,0 +1,12 @@
+body {
+    color: black;
+    background: firebrick;
+    margin: 2px;
+} 
+
+header {
+ border-bottom: solid 2px darkred;
+ padding: 50px;
+ font-size: 35px;
+ color:rgb(58, 5, 5);
+}
